@@ -1,2 +1,2 @@
 # pyb_scratchpad
-Repo to store lunchtime prototype pybites bites using Colaboratory or Azure NB
+Repo to store lunchtime prototype pybites challenges using Colaboratory or Azure NB
